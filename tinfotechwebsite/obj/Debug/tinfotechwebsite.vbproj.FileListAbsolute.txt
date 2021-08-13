@@ -1,0 +1,42 @@
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\bin\tinfotechwebsite.dll
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\bin\tinfotechwebsite.pdb
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\bin\tinfotechwebsite.xml
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\obj\Debug\tinfotechwebsite.Resources.resources
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\obj\Debug\tinfotechwebsite.vbproj.GenerateResource.Cache
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\obj\Debug\tinfotechwebsite.dll
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\obj\Debug\tinfotechwebsite.xml
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\obj\Debug\tinfotechwebsite.pdb
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\obj\Debug\RdlCompile.cache
+D:\TFS\Tinfotech Website\tinfotechwebsite\tinfotechwebsite\obj\Debug\RdlCompile.compiled
+D:\i-Diary IT Solutions Private Limited\Team Projects\Transoft Infotech\Website\tinfotechwebsite\bin\tinfotechwebsite.dll
+D:\i-Diary IT Solutions Private Limited\Team Projects\Transoft Infotech\Website\tinfotechwebsite\bin\tinfotechwebsite.pdb
+D:\i-Diary IT Solutions Private Limited\Team Projects\Transoft Infotech\Website\tinfotechwebsite\bin\tinfotechwebsite.xml
+D:\i-Diary IT Solutions Private Limited\Team Projects\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.Resources.resources
+D:\i-Diary IT Solutions Private Limited\Team Projects\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.vbproj.GenerateResource.Cache
+D:\i-Diary IT Solutions Private Limited\Team Projects\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.dll
+D:\i-Diary IT Solutions Private Limited\Team Projects\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.xml
+D:\i-Diary IT Solutions Private Limited\Team Projects\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.pdb
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\bin\tinfotechwebsite.dll
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\bin\tinfotechwebsite.pdb
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\bin\tinfotechwebsite.xml
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.Resources.resources
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.vbproj.GenerateResource.Cache
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.dll
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.xml
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.pdb
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\bin\tinfotechwebsite.dll
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\bin\tinfotechwebsite.pdb
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\bin\tinfotechwebsite.xml
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.Resources.resources
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.dll
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.xml
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.pdb
+G:\web\desktop new\Website\Website\tinfotechwebsite\bin\tinfotechwebsite.dll
+G:\web\desktop new\Website\Website\tinfotechwebsite\bin\tinfotechwebsite.pdb
+G:\web\desktop new\Website\Website\tinfotechwebsite\bin\tinfotechwebsite.xml
+G:\web\desktop new\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.Resources.resources
+G:\web\desktop new\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.vbproj.GenerateResource.Cache
+G:\web\desktop new\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.dll
+G:\web\desktop new\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.xml
+G:\web\desktop new\Website\Website\tinfotechwebsite\obj\Debug\tinfotechwebsite.pdb

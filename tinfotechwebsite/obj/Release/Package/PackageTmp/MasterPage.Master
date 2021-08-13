@@ -1,0 +1,302 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="MasterPage.master.vb" Inherits="tinfotechwebsite.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        p {
+            text-align: justify;
+            text-justify: inter-word;
+        }
+       /* #whatsapp:hover {
+           transition: background-color 1s; 
+           transition-delay:0.3s;
+           transition-duration:1s;
+           transform:scale(1.7);
+           color:green;
+        }*/
+    </style>
+   
+    <!-- Basic -->
+    <title>Transoft Infotech - Software Development in Agra, India, Website Designing, Best Solar Energy Company in Agra, Indian Cyber Security Solutions, College/School Management System Software in India, Wholesaler &  Service Provider of Desktops Computer and Laptops in Agra.</title>
+    <link rel="shortcut icon" href="images/favicon.png" />
+
+    <!-- Define Charset -->
+    <meta charset="utf-8">
+
+    <!-- Responsive Metatag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Page Description and Author -->
+    <meta name="description" content="Transoft Infotech- Wholesaler &  Service Provider of Desktops Computer, School management software, Solution for School Management System , Best Solar Energy Company in Agra, Indian Cyber Security Solutions, software development, E-commerce Website Development company in Agra, Uttar Pradesh, India.">
+    <meta name="Keywords" content="School management software, Solution for School Management System , Best Solar Energy Company in Agra, software development, E-commerce Website Development, Indian Cyber Security Solutions, School Management Software in Agra, Transoft Infotech, Agra">
+    <meta name="author" content="iThemesLab">
+
+    <!-- Bootstrap CSS  -->
+    <link rel="stylesheet" href="asset/css/bootstrap.min.css" type="text/css" media="screen">
+
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="screen">
+
+    <!-- Margo CSS Styles  -->
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
+
+    <!-- Responsive CSS Styles  -->
+    <link rel="stylesheet" type="text/css" href="css/responsive.css" media="screen">
+
+    <!-- Css3 Transitions Styles  -->
+    <link rel="stylesheet" type="text/css" href="css/animate.css" media="screen">
+
+    <!-- Color CSS Styles  -->
+    <link rel="stylesheet" type="text/css" href="css/colors/red.css" title="red" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/jade.css" title="jade" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/green.css" title="green" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/blue.css" title="blue" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/beige.css" title="beige" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/cyan.css" title="cyan" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/orange.css" title="orange" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/peach.css" title="peach" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/pink.css" title="pink" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/purple.css" title="purple" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/sky-blue.css" title="sky-blue" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/colors/yellow.css" title="yellow" media="screen" />
+
+
+    <!-- Margo JS  -->
+    <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.migrate.js"></script>
+    <script type="text/javascript" src="js/modernizrr.js"></script>
+    <script type="text/javascript" src="asset/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="js/nivo-lightbox.min.js"></script>
+    <script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+    <script type="text/javascript" src="js/jquery.appear.js"></script>
+    <script type="text/javascript" src="js/count-to.js"></script>
+    <script type="text/javascript" src="js/jquery.textillate.js"></script>
+    <script type="text/javascript" src="js/jquery.lettering.js"></script>
+    <script type="text/javascript" src="js/jquery.easypiechart.min.js"></script>
+    <script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
+    <script type="text/javascript" src="js/jquery.parallax.js"></script>
+    <script type="text/javascript" src="js/mediaelement-and-player.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74391274-5"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script>
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-74391274-5');
+
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/5f50ed424704467e89ebebec/default';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+
+
+    <!--[if IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+</head>
+
+<body onload="myFunction()">
+
+    <!-- Full Body Container -->
+    <div id="container">
+        
+        
+        <!-- Start Header Section --> 
+        <div class="hidden-header"></div>
+  
+         <header class="clearfix">
+            
+            <!-- Start Top Bar -->
+            <div class="top-bar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-9">
+                            <!-- Start Contact Info -->
+                            <ul class="contact-details">
+                                <li><a href="#"><i class="fa fa-map-marker"></i> 31/472-C Sultanganj Crossing, Byepass Road, Agra</a>
+                                </li>
+                                <li><a href="mailto:info@tinfotech.com"><i class="fa fa-envelope-o"></i> support@tinfotech.com </a>
+                                </li>
+                                <li><a href="#"><i class="fa fa-phone"></i> +91-9837066344</a>
+                                </li>
+                                <li><a href="#"><i class="fa fa-whatsapp"></i> +91-9045056900</a>
+                                </li>
+                                
+                               <!-- <li><a href="#"><i class="fa fa-whatsapp" id="whatsapp" style="font-size:15px;color:black;transition-duration:1s;"> </i> +91-9837066344 </a>
+                                </li> -->
+                               <!-- <li><a href="http://helpdesk.tinfotech.com/" target="_blank"> <i class="material-icons" style="font-size:15px;">help</i> Helpdesk</a>
+                                </li> -->
+                                <li><a href="Default.aspx"><i class="fa fa-home"></i> Home</a>
+                                </li>
+                            </ul>
+                            <!-- End Contact Info -->
+                        </div><!-- .col-md-6 -->
+                        <div class="col-md-3">
+                            <!-- Start Social Links -->
+                            <ul class="social-list">
+                                <li>
+                                    <a class="facebook itl-tooltip" data-placement="bottom" title="Facebook" href="https://www.facebook.com/TransoftInfotech/" target="_blank"><i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a class="twitter itl-tooltip" data-placement="bottom" title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a class="google itl-tooltip" data-placement="bottom" title="Google Plus" href="#"><i class="fa fa-google-plus"></i></a>
+                                </li>
+                                <li>
+                                    <a class="linkdin itl-tooltip" data-placement="bottom" title="Linkedin" href="https://www.linkedin.com/company/transoft-infotech/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                                </li>
+                                <li>
+                                    <a class="youtube itl-tooltip" data-placement="bottom" title="Youtube" href="https://www.youtube.com/channel/UCVA88A8ary1m8wO2HmOxSeg" target="_blank"><i class="fa fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                            <!-- End Social Links -->
+                        </div><!-- .col-md-6 -->
+                    </div><!-- .row -->
+                </div><!-- .container -->
+                
+                
+                
+                
+          </div><!-- .top-bar -->
+            <!-- End Top Bar -->
+            
+            
+            <!-- Start  Logo & Naviagtion  -->
+            <div class="navbar navbar-default navbar-top">
+              <div class="container">
+                <div class="navbar-header">
+                  <!-- Stat Toggle Nav Link For Mobiles -->
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <i class="fa fa-bars"></i> </button>
+                  <!-- End Toggle Nav Link For Mobiles -->
+                  <a class="navbar-brand" href="Default.aspx"> <img alt="" src="images/logo.png" style="margin-top: -21px;
+    width: 300px;
+    margin-left: -30px;"> </a> </div>
+                <div class="navbar-collapse collapse">
+                  <!-- Stat Search -->
+                  <div class="search-side"> <a href="#" class="show-search"><i class="fa fa-search"></i></a>
+                    <div class="search-form">
+                      <form autocomplete="off" role="search" method="get" class="searchform" action="#">
+                        <input type="text" value="" name="s" id="s" placeholder="Search the site...">
+                      </form>
+                    </div>
+                  </div>
+                  <!-- End Search -->
+                  <!-- Start Navigation List -->
+                  <ul class="nav navbar-nav navbar-right">
+                    
+                    <li> <a href="#">About Us</a>
+                      <ul class="dropdown">
+                        <li><a href="corporateprofile.aspx">Corporate Profile</a> </li>
+                        <li><a href="Alliances.aspx">Alliances</a> </li>
+                        
+                      </ul>
+                    </li>
+                    <li> <a href="#">Services</a>
+                    <ul class="dropdown">
+                        <li><a href="SoftwareDevelopment.aspx">Software Development</a> </li>
+                         <li><a href="#">Mobile App Development</a> </li>
+                         <li><a href="#">E-Commerce Solutions</a> </li>
+                        <li><a href="BiometricGpsSolutions.aspx">Biometric & GPS Solutions</a> </li>
+                        <li><a href="SmartClassSolution.aspx">SMART Class Solutions</a> </li>
+                        <li><a href="CyberSecuritySolutions.aspx">Cyber Security Solutions</a> </li>
+                      	<li><a href="NetworkingAndWirelessSolution.aspx">Networking & Wireless Solutions</a> </li>
+                        <li><a href="ServerWorkstationsLaptop.aspx">Server / Workstations / Laptop</a> </li>
+                        <li><a href="CorporateAndGovermentTraining.aspx">Corporate and Goverment Training</a> </li>
+                        <li><a href="SolarEnergy.aspx">Solar Energy</a> </li>
+                      </ul>
+                    </li>
+
+                    <li> <a href="NewsAndEvents.aspx">News & Events</a></li>
+                    <li> <a href="testimonials.aspx">Testimonials</a></li>
+                    <li> <a href="#">Products</a>
+                      <ul class="dropdown">
+                        <li><a href="iDiary.aspx">iDiary</a> </li>
+                        <li><a href="AcademicAudit.aspx">Academic Audit</a> </li>
+                        <li><a href="Shaladarpan.aspx">Shaladarpan UP</a> </li>
+                        <li><a href="Podium.aspx">Podiums</a> </li>
+                      </ul>
+                    </li>
+
+                    <%--<li> <a href="#">Portfolio</a>--%>
+                   
+                    </li>
+					<li> <a href="Gallery.aspx">Gallery</a></li>
+                     <li> <a href="#" target="_blank">Support</a>
+                         <ul class="dropdown">
+                            <li><a href="https://support.hp.com/in-en/drivers">Software & Drivers </a> </li>
+                            <li><a href="https://support.hp.com/in-en/topic/diagnostics">Diagnostic Tools </a> </li> 
+                             <li><a href="http://helpdesk.tinfotech.com">Helpdesk </a> </li> 
+                        </ul>
+                     </li>
+                    <li><a href="ContactUs.aspx">Contact Us</a> </li>
+                  </ul>
+                  <!-- End Navigation List -->
+                </div>
+              </div>
+            </div>
+            <!-- End Header Logo & Naviagtion -->
+            
+        </header> 
+
+        <section id="home">
+            <!-- Carousel -->
+            <div id="main-slide" class="carousel slide" data-ride="carousel">
+                <asp:ContentPlaceHolder ID="Content" runat="server"></asp:ContentPlaceHolder>
+            </div>
+            <%--<section>--%>
+        </section>
+
+
+        <!-- Start Footer Section -->
+        <footer>
+            <div class="container">
+                <div class="row footer-widgets">
+                   
+                </div><!-- .row -->
+                <script>
+                    function myFunction() {
+                        var d = new Date();
+                        var n = d.getFullYear();
+                        document.getElementById("demo").innerHTML = n;
+                    }
+</script>
+                <!-- Start Copyright -->
+                <div class="copyright-section">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p><center>&copy; <span id="demo"></span>  All Rights Reserved <a href="#">Transoft Infotech</a></center> </p>
+                        </div><!-- .col-md-6 -->
+                       
+                    </div><!-- .row -->
+                </div>
+                <!-- End Copyright -->
+
+            </div>
+        </footer>
+        <!-- End Footer Section -->
+        
+        
+    </div>
+    <!-- End Full Body Container -->
+
+    <!-- Go To Top Link -->
+    <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+</body>
+
+</html>

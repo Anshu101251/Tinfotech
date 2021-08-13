@@ -1,0 +1,16 @@
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\bin\tinfotechwebsite.dll
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\bin\tinfotechwebsite.pdb
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\bin\tinfotechwebsite.xml
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.Resources.resources
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.vbproj.GenerateResource.Cache
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.dll
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.xml
+E:\durgesh\Team Project\Transoft Infotech\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.pdb
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\bin\tinfotechwebsite.dll
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\bin\tinfotechwebsite.pdb
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\bin\tinfotechwebsite.xml
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.Resources.resources
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.dll
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.xml
+C:\Users\acer\Desktop\Website\Website\tinfotechwebsite\obj\Release\tinfotechwebsite.pdb

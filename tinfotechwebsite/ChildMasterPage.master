@@ -1,0 +1,67 @@
+﻿<%@ Master Language="VB" MasterPageFile="~/MasterPage.Master" AutoEventWireup="false" CodeBehind="ChildMasterPage.master.vb" Inherits="tinfotechwebsite.ChildMasterPage" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="Content" runat="server">
+    	<!-- Start Page Banner -->
+		<div class="page-banner no-subtitle">
+			<div class="container" >
+                <asp:ContentPlaceHolder ID="pageheader" runat="server"></asp:ContentPlaceHolder>
+			</div>
+		</div>
+		<!-- End Page Banner -->
+		
+		
+		
+		
+		<!-- Start Content -->
+		<div id="content">
+			<div class="container">
+				<div class="row sidebar-page">
+					
+					
+					<!-- Page Content -->
+					<div class="col-md-9 page-content">
+						
+												
+                        <asp:ContentPlaceHolder ID="ContentData" runat="server"></asp:ContentPlaceHolder>
+					  <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
+						
+						
+						
+					</div>
+					<!-- End Page Content-->
+					
+					
+					<!--Sidebar-->
+					<div class="col-md-3 sidebar right-sidebar">
+						
+						<!-- Search Widget -->
+						<div class="widget widget-categories">
+                            <asp:ContentPlaceHolder ID="ImageHolder" runat="server"></asp:ContentPlaceHolder>
+						</div>
+
+						<!-- Categories Widget -->
+						<div class="widget widget-categories">
+							<h4>Services <span class="head-line"></span></h4>
+							<ul>
+								<li><a href="SoftwareDevelopment.aspx">Software Development</a> </li>
+                        <li><a href="BiometricGpsSolutions.aspx">Biometric & GPS Solutions</a> </li>
+                        <li><a href="SmartClassSolution.aspx">SMART Class Solutions</a> </li>
+                       <%-- <li><a href="BulkSMSService.aspx">Bulk SMS Service</a> </li>--%>
+                        <li><a href="CyberSecuritySolutions.aspx">Cyber Security Solutions</a> </li>
+                      	<li><a href="NetworkingAndWirelessSolution.aspx">Networking & Wireless Solutions</a> </li>
+                        <li><a href="ServerWorkstationsLaptop.aspx">Server / Workstations / Laptop</a> </li>
+                        <li><a href="CorporateAndGovermentTraining.aspx">Corporate and Goverment Training</a> </li>
+                        <li><a href="SolarEnergy.aspx">Solar Energy</a> </li>
+							</ul>
+						</div>
+
+						
+
+					</div>
+					<!--End sidebar-->
+					
+					
+				</div>
+			</div>
+		</div>
+		<!-- End Content -->
+</asp:Content>

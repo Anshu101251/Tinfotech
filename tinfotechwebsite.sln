@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "tinfotechwebsite", "tinfotechwebsite\tinfotechwebsite.vbproj", "{EC49C89B-699C-41AC-8170-6C143E99DCAD}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://transoft-server:8080/tfs/i-diary%20project%20collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = tinfotechwebsite\\tinfotechwebsite.vbproj
+		SccProjectName1 = tinfotechwebsite
+		SccLocalPath1 = tinfotechwebsite
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC49C89B-699C-41AC-8170-6C143E99DCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC49C89B-699C-41AC-8170-6C143E99DCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC49C89B-699C-41AC-8170-6C143E99DCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC49C89B-699C-41AC-8170-6C143E99DCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

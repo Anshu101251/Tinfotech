@@ -1,0 +1,1499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AcademicAudit.aspx">
+      <publishTime>03/17/2018 18:39:32</publishTime>
+    </File>
+    <File Include="Alliances.aspx">
+      <publishTime>02/20/2018 11:09:56</publishTime>
+    </File>
+    <File Include="bin/tinfotechwebsite.dll">
+      <publishTime>03/19/2018 18:50:01</publishTime>
+    </File>
+    <File Include="bin/tinfotechwebsite.xml">
+      <publishTime>03/19/2018 18:50:01</publishTime>
+    </File>
+    <File Include="BiometricGpsSolutions.aspx">
+      <publishTime>08/08/2016 13:36:10</publishTime>
+    </File>
+    <File Include="BulkSMSService.aspx">
+      <publishTime>08/08/2016 13:45:02</publishTime>
+    </File>
+    <File Include="ChildMasterPage.master">
+      <publishTime>02/20/2018 14:05:24</publishTime>
+    </File>
+    <File Include="ContactUs.aspx">
+      <publishTime>06/25/2016 18:29:08</publishTime>
+    </File>
+    <File Include="CorporateAndGovermentTraining.aspx">
+      <publishTime>08/08/2016 13:39:54</publishTime>
+    </File>
+    <File Include="corporateprofile.aspx">
+      <publishTime>03/08/2018 18:56:06</publishTime>
+    </File>
+    <File Include="css/animate.css">
+      <publishTime>11/16/2015 10:18:46</publishTime>
+    </File>
+    <File Include="css/colors/beige.css">
+      <publishTime>11/16/2015 10:19:12</publishTime>
+    </File>
+    <File Include="css/colors/blue.css">
+      <publishTime>11/16/2015 10:19:10</publishTime>
+    </File>
+    <File Include="css/colors/cyan.css">
+      <publishTime>11/16/2015 10:19:16</publishTime>
+    </File>
+    <File Include="css/colors/green.css">
+      <publishTime>11/16/2015 10:19:18</publishTime>
+    </File>
+    <File Include="css/colors/jade.css">
+      <publishTime>11/16/2015 10:19:22</publishTime>
+    </File>
+    <File Include="css/colors/orange.css">
+      <publishTime>11/16/2015 10:19:24</publishTime>
+    </File>
+    <File Include="css/colors/peach.css">
+      <publishTime>11/16/2015 10:19:28</publishTime>
+    </File>
+    <File Include="css/colors/pink.css">
+      <publishTime>11/16/2015 10:19:30</publishTime>
+    </File>
+    <File Include="css/colors/purple.css">
+      <publishTime>11/16/2015 10:19:34</publishTime>
+    </File>
+    <File Include="css/colors/red.css">
+      <publishTime>11/16/2015 10:19:36</publishTime>
+    </File>
+    <File Include="css/colors/sky-blue.css">
+      <publishTime>11/16/2015 10:19:40</publishTime>
+    </File>
+    <File Include="css/colors/yellow.css">
+      <publishTime>11/16/2015 10:19:40</publishTime>
+    </File>
+    <File Include="css/font-awesome.css">
+      <publishTime>11/16/2015 10:18:44</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>11/16/2015 10:18:50</publishTime>
+    </File>
+    <File Include="css/lightbox.css">
+      <publishTime>11/16/2015 10:18:48</publishTime>
+    </File>
+    <File Include="css/responsive.css">
+      <publishTime>11/16/2015 10:18:52</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>08/08/2016 13:35:24</publishTime>
+    </File>
+    <File Include="CyberSecuritySolutions.aspx">
+      <publishTime>08/08/2016 13:37:26</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/20/2018 13:20:52</publishTime>
+    </File>
+    <File Include="Design/css/bootstrap.min.css">
+      <publishTime>08/19/2015 11:43:14</publishTime>
+    </File>
+    <File Include="Design/css/clndr.css">
+      <publishTime>08/19/2015 10:08:22</publishTime>
+    </File>
+    <File Include="Design/css/component.css">
+      <publishTime>01/07/2015 09:04:42</publishTime>
+    </File>
+    <File Include="Design/css/custom.css">
+      <publishTime>08/19/2015 10:08:22</publishTime>
+    </File>
+    <File Include="Design/css/default.css">
+      <publishTime>01/07/2015 08:14:32</publishTime>
+    </File>
+    <File Include="Design/css/font-awesome.css">
+      <publishTime>08/19/2015 10:08:22</publishTime>
+    </File>
+    <File Include="Design/css/jqvmap.css">
+      <publishTime>08/19/2015 10:08:22</publishTime>
+    </File>
+    <File Include="Design/css/lines.css">
+      <publishTime>08/19/2015 10:08:22</publishTime>
+    </File>
+    <File Include="Design/css/style.css">
+      <publishTime>08/19/2015 12:12:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/css/font-awesome.css">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/css/font-awesome.min.css">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/fonts/fontawesome-webfont.eot">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/fonts/fontawesome-webfont.svg">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/fonts/fontawesome-webfont.woff">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/fonts/FontAwesome.otf">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/animated.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/bordered-pulled.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/core.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/fixed-width.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/font-awesome.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/icons.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/larger.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/list.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/mixins.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/path.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/rotated-flipped.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/stacked.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/less/variables.less">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/font-awesome.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_animated.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_bordered-pulled.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_core.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_fixed-width.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_icons.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_larger.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_list.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_mixins.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_path.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_rotated-flipped.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_stacked.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/font-awesome-4.3.0/font-awesome-4.3.0/scss/_variables.scss">
+      <publishTime>04/17/2015 15:26:24</publishTime>
+    </File>
+    <File Include="Design/fonts/fontawesome-webfont.eot">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/fontawesome-webfont.svg">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/fontawesome-webfont.ttf">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/fontawesome-webfont.woff">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/fontawesome-webfont.woff2">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/FontAwesome.otf">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>08/19/2015 11:13:06</publishTime>
+    </File>
+    <File Include="Design/fonts/icomoon.dev.svg">
+      <publishTime>04/18/2013 06:17:12</publishTime>
+    </File>
+    <File Include="Design/fonts/icomoon.eot">
+      <publishTime>04/18/2013 06:17:12</publishTime>
+    </File>
+    <File Include="Design/fonts/icomoon.svg">
+      <publishTime>04/18/2013 06:17:12</publishTime>
+    </File>
+    <File Include="Design/fonts/icomoon.ttf">
+      <publishTime>04/18/2013 06:17:12</publishTime>
+    </File>
+    <File Include="Design/fonts/icomoon.woff">
+      <publishTime>04/18/2013 06:17:12</publishTime>
+    </File>
+    <File Include="Design/fonts/license.txt">
+      <publishTime>04/18/2013 06:17:12</publishTime>
+    </File>
+    <File Include="Design/images/1.png">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/images/arrow1.jpg">
+      <publishTime>04/11/2014 08:45:36</publishTime>
+    </File>
+    <File Include="Design/images/arrow1.png">
+      <publishTime>06/22/2015 15:48:56</publishTime>
+    </File>
+    <File Include="Design/images/bg-old.jpg">
+      <publishTime>06/22/2015 14:39:54</publishTime>
+    </File>
+    <File Include="Design/images/bg.jpg">
+      <publishTime>06/22/2015 16:27:28</publishTime>
+    </File>
+    <File Include="Design/images/click.png">
+      <publishTime>01/07/2015 09:07:48</publishTime>
+    </File>
+    <File Include="Design/images/clickhere.png">
+      <publishTime>04/19/2013 06:11:44</publishTime>
+    </File>
+    <File Include="Design/images/clip_art_for_website.jpg">
+      <publishTime>01/07/2015 07:56:52</publishTime>
+    </File>
+    <File Include="Design/images/head-bg-new.jpg">
+      <publishTime>04/08/2015 14:09:16</publishTime>
+    </File>
+    <File Include="Design/images/head-bg.jpg">
+      <publishTime>01/07/2015 08:07:26</publishTime>
+    </File>
+    <File Include="Design/images/head.jpg">
+      <publishTime>06/26/2015 16:27:42</publishTime>
+    </File>
+    <File Include="Design/images/icons/admission.png">
+      <publishTime>04/08/2015 15:12:22</publishTime>
+    </File>
+    <File Include="Design/images/icons/alumni.png">
+      <publishTime>07/21/2015 13:21:46</publishTime>
+    </File>
+    <File Include="Design/images/icons/calculator.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Design/images/icons/calender.png">
+      <publishTime>07/21/2015 13:33:20</publishTime>
+    </File>
+    <File Include="Design/images/icons/certificate.png">
+      <publishTime>05/08/2015 06:24:52</publishTime>
+    </File>
+    <File Include="Design/images/icons/change.png">
+      <publishTime>07/21/2015 13:22:54</publishTime>
+    </File>
+    <File Include="Design/images/icons/configurations.png">
+      <publishTime>05/08/2015 06:50:28</publishTime>
+    </File>
+    <File Include="Design/images/icons/edocs.png">
+      <publishTime>05/08/2015 06:47:08</publishTime>
+    </File>
+    <File Include="Design/images/icons/enquiry.png">
+      <publishTime>04/08/2015 15:05:50</publishTime>
+    </File>
+    <File Include="Design/images/icons/examination.png">
+      <publishTime>05/08/2015 06:20:08</publishTime>
+    </File>
+    <File Include="Design/images/icons/fee.png">
+      <publishTime>04/08/2015 15:10:50</publishTime>
+    </File>
+    <File Include="Design/images/icons/health.png">
+      <publishTime>05/08/2015 07:05:02</publishTime>
+    </File>
+    <File Include="Design/images/icons/help.png">
+      <publishTime>07/21/2015 13:31:16</publishTime>
+    </File>
+    <File Include="Design/images/icons/home.png">
+      <publishTime>07/21/2015 13:00:52</publishTime>
+    </File>
+    <File Include="Design/images/icons/hr.png">
+      <publishTime>05/08/2015 07:07:00</publishTime>
+    </File>
+    <File Include="Design/images/icons/library.png">
+      <publishTime>05/08/2015 06:17:32</publishTime>
+    </File>
+    <File Include="Design/images/icons/logout.png">
+      <publishTime>07/21/2015 13:25:24</publishTime>
+    </File>
+    <File Include="Design/images/icons/messaging.png">
+      <publishTime>05/08/2015 07:17:28</publishTime>
+    </File>
+    <File Include="Design/images/icons/report.png">
+      <publishTime>05/08/2015 07:29:38</publishTime>
+    </File>
+    <File Include="Design/images/icons/student.png">
+      <publishTime>04/08/2015 15:11:48</publishTime>
+    </File>
+    <File Include="Design/images/icons/teachers.png">
+      <publishTime>05/08/2015 06:56:42</publishTime>
+    </File>
+    <File Include="Design/images/icons/timetable.png">
+      <publishTime>05/08/2015 07:00:26</publishTime>
+    </File>
+    <File Include="Design/images/icons/training.png">
+      <publishTime>05/08/2015 07:14:26</publishTime>
+    </File>
+    <File Include="Design/images/icons/transport.png">
+      <publishTime>04/08/2015 15:14:20</publishTime>
+    </File>
+    <File Include="Design/images/line.png">
+      <publishTime>06/22/2015 13:58:08</publishTime>
+    </File>
+    <File Include="Design/images/logo.png">
+      <publishTime>06/23/2015 16:43:16</publishTime>
+    </File>
+    <File Include="Design/images/school-name.png">
+      <publishTime>01/07/2015 08:27:14</publishTime>
+    </File>
+    <File Include="Design/images/singup-button.jpg">
+      <publishTime>04/11/2014 09:21:22</publishTime>
+    </File>
+    <File Include="Design/js/bootstrap.min.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/Chart.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/clndr.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/custom.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/d3.v3.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/jquery.dlmenu.js">
+      <publishTime>05/22/2013 13:31:30</publishTime>
+    </File>
+    <File Include="Design/js/jquery.min.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/jquery.vmap.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/jquery.vmap.sampledata.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/jquery.vmap.world.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/metisMenu.min.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/modernizr.custom.js">
+      <publishTime>04/19/2013 06:38:32</publishTime>
+    </File>
+    <File Include="Design/js/moment-2.2.1.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/rickshaw.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/site.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/js/underscore-min.js">
+      <publishTime>08/19/2015 10:08:24</publishTime>
+    </File>
+    <File Include="Design/postlogin.html">
+      <publishTime>08/19/2015 12:09:36</publishTime>
+    </File>
+    <File Include="Design/script.js">
+      <publishTime>02/02/2015 16:20:36</publishTime>
+    </File>
+    <File Include="Design/styles.css">
+      <publishTime>04/08/2015 14:44:22</publishTime>
+    </File>
+    <File Include="Design/stylesheet.css">
+      <publishTime>08/19/2015 12:07:58</publishTime>
+    </File>
+    <File Include="dist/css/lightbox.css">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/css/lightbox.min.css">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/images/close.png">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/images/loading.gif">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/images/next.png">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/images/prev.png">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/js/lightbox-plus-jquery.js">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/js/lightbox-plus-jquery.min.js">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/js/lightbox-plus-jquery.min.map">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/js/lightbox.js">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/js/lightbox.min.js">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="dist/js/lightbox.min.map">
+      <publishTime>12/13/2015 21:20:30</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>10/20/2015 07:47:54</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>10/20/2015 07:47:54</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>10/20/2015 07:47:56</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>10/20/2015 07:47:58</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>10/20/2015 07:48:04</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/20/2015 07:48:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/20/2015 07:48:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/20/2015 07:48:08</publishTime>
+    </File>
+    <File Include="Gallery.aspx">
+      <publishTime>06/30/2016 15:18:44</publishTime>
+    </File>
+    <File Include="iDiary.aspx">
+      <publishTime>03/17/2018 18:19:58</publishTime>
+    </File>
+    <File Include="images/alliances/alliances_clip_image002.jpg">
+      <publishTime>10/20/2015 07:49:50</publishTime>
+    </File>
+    <File Include="images/alliances/alliances_clip_image004.jpg">
+      <publishTime>10/20/2015 07:49:50</publishTime>
+    </File>
+    <File Include="images/alliances/alliances_clip_image005.jpg">
+      <publishTime>10/20/2015 07:49:52</publishTime>
+    </File>
+    <File Include="images/alliances/alliances_clip_image007.gif">
+      <publishTime>10/20/2015 07:49:52</publishTime>
+    </File>
+    <File Include="images/alliances/alliances_clip_image009.jpg">
+      <publishTime>10/20/2015 07:49:54</publishTime>
+    </File>
+    <File Include="images/alliances/alliances_clip_image010.jpg">
+      <publishTime>10/20/2015 07:49:54</publishTime>
+    </File>
+    <File Include="images/alliances/alliances_clip_image011.jpg">
+      <publishTime>10/20/2015 07:49:56</publishTime>
+    </File>
+    <File Include="images/alliances/cisco.jpg">
+      <publishTime>05/11/2015 09:02:46</publishTime>
+    </File>
+    <File Include="images/alliances/hp.jpg">
+      <publishTime>05/11/2015 09:02:46</publishTime>
+    </File>
+    <File Include="images/alliances/ibm.jpg">
+      <publishTime>05/11/2015 09:02:50</publishTime>
+    </File>
+    <File Include="images/alliances/idiary.jpg">
+      <publishTime>05/11/2015 09:02:54</publishTime>
+    </File>
+    <File Include="images/alliances/itupvan.jpg">
+      <publishTime>05/11/2015 09:02:54</publishTime>
+    </File>
+    <File Include="images/alliances/muzztech.png">
+      <publishTime>01/07/2016 18:05:36</publishTime>
+    </File>
+    <File Include="images/alliances/smart.jpg">
+      <publishTime>05/11/2015 09:03:00</publishTime>
+    </File>
+    <File Include="images/alliances/spuntek.jpg">
+      <publishTime>05/11/2015 09:02:58</publishTime>
+    </File>
+    <File Include="images/avatar.png">
+      <publishTime>10/20/2015 08:35:18</publishTime>
+    </File>
+    <File Include="images/c1.png">
+      <publishTime>10/20/2015 07:49:18</publishTime>
+    </File>
+    <File Include="images/c10.png">
+      <publishTime>10/20/2015 07:49:20</publishTime>
+    </File>
+    <File Include="images/c11.png">
+      <publishTime>10/20/2015 07:49:20</publishTime>
+    </File>
+    <File Include="images/c12.png">
+      <publishTime>10/20/2015 07:49:20</publishTime>
+    </File>
+    <File Include="images/c13.png">
+      <publishTime>10/20/2015 07:49:22</publishTime>
+    </File>
+    <File Include="images/c14.png">
+      <publishTime>10/20/2015 07:49:22</publishTime>
+    </File>
+    <File Include="images/c2.png">
+      <publishTime>10/20/2015 07:49:22</publishTime>
+    </File>
+    <File Include="images/c3.png">
+      <publishTime>10/20/2015 07:49:24</publishTime>
+    </File>
+    <File Include="images/c4.png">
+      <publishTime>10/20/2015 07:49:24</publishTime>
+    </File>
+    <File Include="images/c5.png">
+      <publishTime>10/20/2015 07:49:26</publishTime>
+    </File>
+    <File Include="images/c6.png">
+      <publishTime>10/20/2015 07:49:26</publishTime>
+    </File>
+    <File Include="images/c7.png">
+      <publishTime>10/20/2015 07:49:26</publishTime>
+    </File>
+    <File Include="images/c8.png">
+      <publishTime>10/20/2015 07:49:28</publishTime>
+    </File>
+    <File Include="images/c9.png">
+      <publishTime>10/20/2015 07:49:30</publishTime>
+    </File>
+    <File Include="images/favicon.png">
+      <publishTime>10/20/2015 07:49:28</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/10.jpg">
+      <publishTime>10/23/2015 11:47:44</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/11.jpg">
+      <publishTime>10/23/2015 11:47:46</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/12.jpg">
+      <publishTime>10/23/2015 11:47:48</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/13.jpg">
+      <publishTime>10/23/2015 11:47:50</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/14.jpg">
+      <publishTime>10/23/2015 11:47:50</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/15.jpg">
+      <publishTime>10/23/2015 11:47:54</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/16.jpg">
+      <publishTime>10/23/2015 11:47:54</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/17.jpg">
+      <publishTime>10/23/2015 11:47:56</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/18.jpg">
+      <publishTime>10/23/2015 11:47:56</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/19.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/2.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/20.jpg">
+      <publishTime>10/23/2015 11:48:02</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/21.jpg">
+      <publishTime>10/23/2015 11:48:02</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/22.jpg">
+      <publishTime>10/23/2015 11:48:06</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/23.jpg">
+      <publishTime>10/23/2015 11:48:06</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/24.jpg">
+      <publishTime>10/23/2015 11:48:08</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/25.jpg">
+      <publishTime>10/23/2015 11:48:08</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/26.jpg">
+      <publishTime>10/23/2015 11:48:14</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/27.jpg">
+      <publishTime>10/23/2015 11:48:12</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/28.jpg">
+      <publishTime>10/23/2015 11:48:14</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/29.jpg">
+      <publishTime>10/23/2015 11:48:18</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/3.jpg">
+      <publishTime>10/23/2015 11:48:20</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/30.jpg">
+      <publishTime>10/23/2015 11:48:22</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/31.jpg">
+      <publishTime>10/23/2015 11:48:22</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/32.jpg">
+      <publishTime>10/23/2015 11:48:30</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/4.jpg">
+      <publishTime>10/23/2015 11:48:26</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/5.jpg">
+      <publishTime>10/23/2015 11:48:30</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/6.jpg">
+      <publishTime>10/23/2015 11:48:32</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/7.jpg">
+      <publishTime>10/23/2015 11:48:34</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/8.jpg">
+      <publishTime>10/23/2015 11:48:36</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/9.jpg">
+      <publishTime>10/23/2015 11:48:36</publishTime>
+    </File>
+    <File Include="images/gallery/cebit-2014/Album_1.jpg">
+      <publishTime>10/23/2015 11:47:44</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/10.JPG">
+      <publishTime>10/23/2015 11:48:44</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/11.JPG">
+      <publishTime>10/23/2015 11:48:50</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/12.JPG">
+      <publishTime>10/23/2015 11:48:50</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/13.JPG">
+      <publishTime>10/23/2015 11:48:56</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/14.JPG">
+      <publishTime>10/23/2015 11:48:56</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/15.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/16.JPG">
+      <publishTime>10/23/2015 11:49:02</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/17.JPG">
+      <publishTime>10/23/2015 11:49:08</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/18.JPG">
+      <publishTime>10/23/2015 11:49:14</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/19.JPG">
+      <publishTime>10/23/2015 11:49:14</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/2.JPG">
+      <publishTime>10/23/2015 11:49:18</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/20.JPG">
+      <publishTime>10/23/2015 11:49:20</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/21.JPG">
+      <publishTime>10/23/2015 11:49:24</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/22.JPG">
+      <publishTime>10/23/2015 11:49:24</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/23.JPG">
+      <publishTime>10/23/2015 11:49:30</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/24.JPG">
+      <publishTime>10/23/2015 11:49:30</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/25.JPG">
+      <publishTime>10/23/2015 11:49:34</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/26.JPG">
+      <publishTime>10/23/2015 11:49:38</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/27.JPG">
+      <publishTime>10/23/2015 11:49:38</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/28.JPG">
+      <publishTime>10/23/2015 11:49:46</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/29.JPG">
+      <publishTime>10/23/2015 11:49:42</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/3.JPG">
+      <publishTime>10/23/2015 11:49:46</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/4.JPG">
+      <publishTime>10/23/2015 11:49:54</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/5.JPG">
+      <publishTime>10/23/2015 11:49:54</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/6.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/7.JPG">
+      <publishTime>10/23/2015 11:50:02</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/8.JPG">
+      <publishTime>10/23/2015 11:50:06</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/9.JPG">
+      <publishTime>10/23/2015 11:50:06</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-etawah/Album_1.JPG">
+      <publishTime>10/23/2015 11:48:44</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-kannauj/2.jpg">
+      <publishTime>10/23/2015 11:50:14</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-kannauj/3.jpg">
+      <publishTime>10/23/2015 11:50:18</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-kannauj/4.jpg">
+      <publishTime>10/23/2015 11:50:20</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-kannauj/5.jpg">
+      <publishTime>10/23/2015 11:50:22</publishTime>
+    </File>
+    <File Include="images/gallery/e-govnance-2014-kannauj/Album_1.jpg">
+      <publishTime>10/23/2015 11:50:14</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/1.jpg">
+      <publishTime>10/23/2015 11:50:26</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/10.jpg">
+      <publishTime>10/23/2015 11:50:26</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/11.jpg">
+      <publishTime>10/23/2015 11:50:28</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/12.jpg">
+      <publishTime>10/23/2015 11:50:28</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/13.jpg">
+      <publishTime>10/23/2015 11:50:32</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/3.jpg">
+      <publishTime>10/23/2015 11:50:34</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/4.jpg">
+      <publishTime>10/23/2015 11:50:36</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/5.jpg">
+      <publishTime>10/23/2015 11:50:42</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/6.jpg">
+      <publishTime>10/23/2015 11:50:40</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/7.jpg">
+      <publishTime>10/23/2015 11:50:42</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/8.jpg">
+      <publishTime>10/23/2015 11:50:44</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/9.jpg">
+      <publishTime>10/23/2015 11:50:46</publishTime>
+    </File>
+    <File Include="images/gallery/e-uttar-pradesh/Album_1.jpg">
+      <publishTime>10/23/2015 11:50:32</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/Album_1.jpg">
+      <publishTime>10/23/2015 11:50:52</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/AMAWA-BLOCK-RAEBARELI-300x181.jpg">
+      <publishTime>10/23/2015 11:50:50</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/AMAWA-BLOCK-RAEBARELI1-300x181.jpg">
+      <publishTime>10/23/2015 11:50:58</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/AMAWA-BLOCK-RAEBARELI1.jpg">
+      <publishTime>10/23/2015 11:50:58</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/BICHIA-BLOCK-UNNAO-300x181.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/BICHIA-BLOCK-UNNAO.jpg">
+      <publishTime>10/23/2015 11:51:02</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/BICHIA-BLOCK-UNNAO1-300x181.jpg">
+      <publishTime>10/23/2015 11:51:02</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/BICHIA-BLOCK-UNNAO1.jpg">
+      <publishTime>10/23/2015 11:51:08</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/DINSHAH-GAURA-BLOCK-RAEBARELI-300x181.jpg">
+      <publishTime>10/23/2015 11:51:06</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/DINSHAH-GAURA-BLOCK-RAEBARELI.jpg">
+      <publishTime>10/23/2015 11:51:10</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/DINSHAH-GAURA-BLOCK-RAEBARELI1-300x181.jpg">
+      <publishTime>10/23/2015 11:51:10</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/DINSHAH-GAURA-BLOCK-RAEBARELI1.jpg">
+      <publishTime>10/23/2015 11:51:12</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HAIDERGARH-TEHSIL-BARABANKI-300x181.jpg">
+      <publishTime>10/23/2015 11:51:12</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HAIDERGARH-TEHSIL-BARABANKI.jpg">
+      <publishTime>10/23/2015 11:51:14</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HAIDERGARH-TEHSIL-BARABANKI1-300x181.jpg">
+      <publishTime>10/23/2015 11:51:14</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HAIDERGARH-TEHSIL-BARABANKI1.jpg">
+      <publishTime>10/23/2015 11:51:18</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HARAKH-BLOCK-BARABANKI-300x181.jpg">
+      <publishTime>10/23/2015 11:51:16</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HARAKH-BLOCK-BARABANKI.jpg">
+      <publishTime>10/23/2015 11:51:22</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HARAKH-BLOCK-BARABANKI1-300x181.jpg">
+      <publishTime>10/23/2015 11:51:20</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HARAKH-BLOCK-BARABANKI1.jpg">
+      <publishTime>10/23/2015 11:51:26</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HILAULI-BLOCK-UNNAO-300x181.jpg">
+      <publishTime>10/23/2015 11:51:26</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HILAULI-BLOCK-UNNAO.jpg">
+      <publishTime>10/23/2015 11:51:30</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HILAULI-BLOCK-UNNAO1-300x181.jpg">
+      <publishTime>10/23/2015 11:51:28</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/HILAULI-BLOCK-UNNAO1.jpg">
+      <publishTime>10/23/2015 11:51:32</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/KHIRON-BLOCK-RAEBARELI-300x181.jpg">
+      <publishTime>10/23/2015 11:51:32</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/KHIRON-BLOCK-RAEBARELI.jpg">
+      <publishTime>10/23/2015 11:51:34</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/KHIRON-BLOCK-RAEBARELI1-300x181.jpg">
+      <publishTime>10/23/2015 11:51:36</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/KHIRON-BLOCK-RAEBARELI1.jpg">
+      <publishTime>10/23/2015 11:51:38</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/MAHMOODABAD-TEHSIL-SITAPUR-300x181.jpg">
+      <publishTime>10/23/2015 11:51:38</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/MAHMOODABAD-TEHSIL-SITAPUR.jpg">
+      <publishTime>10/23/2015 11:51:44</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/MAHMOODABAD-TEHSIL-SITAPUR1-300x181.jpg">
+      <publishTime>10/23/2015 11:51:40</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/MAHMOODABAD-TEHSIL-SITAPUR1.jpg">
+      <publishTime>10/23/2015 11:51:44</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/NAWABGANJ-BLOCK-UNNAO-300x181.jpg">
+      <publishTime>10/23/2015 11:51:46</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/NAWABGANJ-BLOCK-UNNAO.jpg">
+      <publishTime>10/23/2015 11:51:48</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/NAWABGANJ-BLOCK-UNNAO1-300x181.jpg">
+      <publishTime>10/23/2015 11:51:50</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/NAWABGANJ-BLOCK-UNNAO1.jpg">
+      <publishTime>10/23/2015 11:51:58</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/NINDURA-BLOCK-BARABANKI-300x181.jpg">
+      <publishTime>10/23/2015 11:51:52</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/NINDURA-BLOCK-BARABANKI.jpg">
+      <publishTime>10/23/2015 11:51:58</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/NINDURA-BLOCK-BARABANKI1-300x181.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/NINDURA-BLOCK-BARABANKI1.jpg">
+      <publishTime>10/23/2015 11:52:02</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/PARESENDA-BLOCK-SITAPUR-300x181.jpg">
+      <publishTime>10/23/2015 11:52:02</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/PARESENDA-BLOCK-SITAPUR.jpg">
+      <publishTime>10/23/2015 11:52:04</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/PERSENDA-BLOCK-SITAPUR1-300x181.jpg">
+      <publishTime>10/23/2015 11:52:04</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/PERSENDA-BLOCK-SITAPUR1.jpg">
+      <publishTime>10/23/2015 11:52:08</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/PISWN-BLOCK-SITAPUR-300x181.jpg">
+      <publishTime>10/23/2015 11:52:08</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/PISWN-BLOCK-SITAPUR.jpg">
+      <publishTime>10/23/2015 11:52:14</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/PISWN-BLOCK-SITAPUR1-300x181.jpg">
+      <publishTime>10/23/2015 11:52:10</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/PISWN-BLOCK-SITAPUR1.jpg">
+      <publishTime>10/23/2015 11:52:12</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/RAMPUR-MATHURA-BLOCK-SITAPUR-300x181.jpg">
+      <publishTime>10/23/2015 11:52:16</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/RAMPUR-MATHURA-BLOCK-SITAPUR.jpg">
+      <publishTime>10/23/2015 11:52:18</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/RAMPUR-MATHURA-BLOCK-SITAPUR1-300x181.jpg">
+      <publishTime>10/23/2015 11:52:22</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/RAMPUR-MATHURA-BLOCK-SITAPUR1.jpg">
+      <publishTime>10/23/2015 11:52:20</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/RAMSANEHI-GHAT-TEHSIL-BARABANKI-300x181.jpg">
+      <publishTime>10/23/2015 11:52:24</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/RAMSANEHI-GHAT-TEHSIL-BARABANKI.jpg">
+      <publishTime>10/23/2015 11:52:26</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/RAMSANEHI-GHAT-TEHSIL-BARABANKI1-300x181.jpg">
+      <publishTime>10/23/2015 11:52:26</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/RAMSANEHI-GHAT-TEHSIL-BARABANKI1.jpg">
+      <publishTime>10/23/2015 11:52:28</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SHIVGARH-BLOCK-RAEBARELI %281%29.jpg">
+      <publishTime>10/23/2015 11:52:28</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SHIVGARH-BLOCK-RAEBARELI-300x181.jpg">
+      <publishTime>10/23/2015 11:52:32</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SHIVGARH-BLOCK-RAEBARELI.jpg">
+      <publishTime>10/23/2015 11:52:36</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SHIVGARH-BLOCK-RAEBARELI1 %281%29.jpg">
+      <publishTime>10/23/2015 11:52:36</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SHIVGARH-BLOCK-RAEBARELI1-300x181.jpg">
+      <publishTime>10/23/2015 11:52:46</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SHIVGARH-BLOCK-RAEBARELI1.jpg">
+      <publishTime>10/23/2015 11:52:48</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIDHULI-TEHSIL-SITAPUR-300x181.jpg">
+      <publishTime>10/23/2015 11:52:50</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIDHULI-TEHSIL-SITAPUR.jpg">
+      <publishTime>10/23/2015 11:52:50</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIDHULI-TEHSIL-SITAPUR1-300x181.jpg">
+      <publishTime>10/23/2015 11:52:52</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIDHULI-TEHSIL-SITAPUR1.jpg">
+      <publishTime>10/23/2015 11:52:56</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIKANDARPUR-KARAN-BLOCK-UNNAO-300x181.jpg">
+      <publishTime>10/23/2015 11:52:54</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIKANDARPUR-KARAN-BLOCK-UNNAO.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIKANDARPUR-KARAN-BLOCK-UNNAO1-300x181.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIKANDARPUR-KARAN-BLOCK-UNNAO1.jpg">
+      <publishTime>10/23/2015 11:53:02</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIKANDARPUR-SIRSO-BLOCK-UNNAO-300x181.jpg">
+      <publishTime>10/23/2015 11:53:04</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIKANDARPUR-SIRSO-BLOCK-UNNAO.jpg">
+      <publishTime>10/23/2015 11:53:06</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIKANDARPUR-SIRSO-BLOCK-UNNAO1-300x181.jpg">
+      <publishTime>10/23/2015 11:53:06</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SIKANDARPUR-SIRSO-BLOCK-UNNAO1.jpg">
+      <publishTime>10/23/2015 11:53:12</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SINGHPUR-BLOCK-RAEBARELI-300x181.jpg">
+      <publishTime>10/23/2015 11:53:12</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SINGHPUR-BLOCK-RAEBARELI.jpg">
+      <publishTime>10/23/2015 11:53:16</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SINGHPUR-BLOCK-RAEBARELI1-300x181.jpg">
+      <publishTime>10/23/2015 11:53:16</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/SINGHPUR-BLOCK-RAEBARELI1.jpg">
+      <publishTime>10/23/2015 11:53:22</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/TRIVEDIGANJ-BLOCK-BARABANKI-300x181.jpg">
+      <publishTime>10/23/2015 11:53:20</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/TRIVEDIGANJ-BLOCK-BARABANKI.jpg">
+      <publishTime>10/23/2015 11:53:22</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/TRIVEDIGANJ-BLOCK-BARABANKI1-300x181.jpg">
+      <publishTime>10/23/2015 11:53:24</publishTime>
+    </File>
+    <File Include="images/gallery/solar-gallery/TRIVEDIGANJ-BLOCK-BARABANKI1.jpg">
+      <publishTime>10/23/2015 11:53:26</publishTime>
+    </File>
+    <File Include="images/icon.png">
+      <publishTime>10/20/2015 07:49:30</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>10/20/2015 07:49:32</publishTime>
+    </File>
+    <File Include="images/map.png">
+      <publishTime>10/20/2015 07:49:36</publishTime>
+    </File>
+    <File Include="images/margo.png">
+      <publishTime>10/20/2015 07:49:32</publishTime>
+    </File>
+    <File Include="images/news-events/news-and-events_clip_image002.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/news-events/news-and-events_clip_image004.jpg">
+      <publishTime>10/20/2015 07:49:58</publishTime>
+    </File>
+    <File Include="images/news-events/news-and-events_clip_image006.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/parallax/bg-01.jpg">
+      <publishTime>10/20/2015 07:50:22</publishTime>
+    </File>
+    <File Include="images/parallax/bg-02.jpg">
+      <publishTime>10/20/2015 07:50:08</publishTime>
+    </File>
+    <File Include="images/patterns/1.png">
+      <publishTime>10/20/2015 07:50:16</publishTime>
+    </File>
+    <File Include="images/patterns/10.png">
+      <publishTime>10/20/2015 07:50:20</publishTime>
+    </File>
+    <File Include="images/patterns/11.png">
+      <publishTime>10/20/2015 07:50:22</publishTime>
+    </File>
+    <File Include="images/patterns/12.png">
+      <publishTime>10/20/2015 07:50:26</publishTime>
+    </File>
+    <File Include="images/patterns/13.png">
+      <publishTime>10/20/2015 07:50:24</publishTime>
+    </File>
+    <File Include="images/patterns/14.png">
+      <publishTime>10/20/2015 07:50:26</publishTime>
+    </File>
+    <File Include="images/patterns/2.png">
+      <publishTime>10/20/2015 07:50:28</publishTime>
+    </File>
+    <File Include="images/patterns/3.png">
+      <publishTime>10/20/2015 07:50:30</publishTime>
+    </File>
+    <File Include="images/patterns/4.png">
+      <publishTime>10/20/2015 07:50:30</publishTime>
+    </File>
+    <File Include="images/patterns/5.png">
+      <publishTime>10/20/2015 07:50:32</publishTime>
+    </File>
+    <File Include="images/patterns/6.png">
+      <publishTime>10/20/2015 07:50:30</publishTime>
+    </File>
+    <File Include="images/patterns/7.png">
+      <publishTime>10/20/2015 07:50:32</publishTime>
+    </File>
+    <File Include="images/patterns/8.png">
+      <publishTime>10/20/2015 07:50:36</publishTime>
+    </File>
+    <File Include="images/patterns/9.png">
+      <publishTime>10/20/2015 07:50:36</publishTime>
+    </File>
+    <File Include="images/portfolio-1/1.png">
+      <publishTime>10/20/2015 07:51:26</publishTime>
+    </File>
+    <File Include="images/portfolio-1/10.png">
+      <publishTime>10/20/2015 07:51:26</publishTime>
+    </File>
+    <File Include="images/portfolio-1/11.png">
+      <publishTime>10/20/2015 07:51:28</publishTime>
+    </File>
+    <File Include="images/portfolio-1/12.png">
+      <publishTime>10/20/2015 07:51:28</publishTime>
+    </File>
+    <File Include="images/portfolio-1/2.png">
+      <publishTime>10/20/2015 07:51:32</publishTime>
+    </File>
+    <File Include="images/portfolio-1/3.png">
+      <publishTime>10/20/2015 07:51:32</publishTime>
+    </File>
+    <File Include="images/portfolio-1/4.png">
+      <publishTime>10/20/2015 07:51:34</publishTime>
+    </File>
+    <File Include="images/portfolio-1/5.png">
+      <publishTime>10/20/2015 07:51:36</publishTime>
+    </File>
+    <File Include="images/portfolio-1/6.png">
+      <publishTime>10/20/2015 07:51:36</publishTime>
+    </File>
+    <File Include="images/portfolio-1/7.png">
+      <publishTime>10/20/2015 07:51:40</publishTime>
+    </File>
+    <File Include="images/portfolio-1/8.png">
+      <publishTime>10/20/2015 07:51:40</publishTime>
+    </File>
+    <File Include="images/portfolio-1/9.png">
+      <publishTime>10/20/2015 07:51:46</publishTime>
+    </File>
+    <File Include="images/portfolio-1/port-1.jpg">
+      <publishTime>10/20/2015 07:51:44</publishTime>
+    </File>
+    <File Include="images/portfolio-1/port-2.jpg">
+      <publishTime>10/20/2015 07:51:48</publishTime>
+    </File>
+    <File Include="images/portfolio-1/port-3.jpg">
+      <publishTime>10/20/2015 07:51:50</publishTime>
+    </File>
+    <File Include="images/portfolio-1/port-4.jpg">
+      <publishTime>10/20/2015 07:51:56</publishTime>
+    </File>
+    <File Include="images/portfolio-1/port-5.jpg">
+      <publishTime>10/20/2015 07:51:54</publishTime>
+    </File>
+    <File Include="images/portfolio-1/port-6.jpg">
+      <publishTime>10/20/2015 07:51:56</publishTime>
+    </File>
+    <File Include="images/portfolio-1/port-7.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/portfolio-1/port-8.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/portfolio-1/port-9.jpg">
+      <publishTime>10/20/2015 07:52:02</publishTime>
+    </File>
+    <File Include="images/portfolio-1/portfolio-img1.jpg">
+      <publishTime>10/20/2015 07:52:08</publishTime>
+    </File>
+    <File Include="images/portfolio-1/portfolio-img2.jpg">
+      <publishTime>10/20/2015 07:52:04</publishTime>
+    </File>
+    <File Include="images/portfolio-1/portfolio-img3.jpg">
+      <publishTime>10/20/2015 07:52:08</publishTime>
+    </File>
+    <File Include="images/portfolio-1/portfolio-img4.jpg">
+      <publishTime>10/20/2015 07:52:10</publishTime>
+    </File>
+    <File Include="images/portfolio-1/portfolio-img5.jpg">
+      <publishTime>10/20/2015 07:52:10</publishTime>
+    </File>
+    <File Include="images/portfolio-1/portfolio-img6.jpg">
+      <publishTime>10/20/2015 07:52:12</publishTime>
+    </File>
+    <File Include="images/portfolio/1.png">
+      <publishTime>10/20/2015 07:50:42</publishTime>
+    </File>
+    <File Include="images/portfolio/10.png">
+      <publishTime>10/20/2015 07:50:42</publishTime>
+    </File>
+    <File Include="images/portfolio/11.png">
+      <publishTime>10/20/2015 07:50:46</publishTime>
+    </File>
+    <File Include="images/portfolio/12.png">
+      <publishTime>10/20/2015 07:50:44</publishTime>
+    </File>
+    <File Include="images/portfolio/2.png">
+      <publishTime>10/20/2015 07:50:46</publishTime>
+    </File>
+    <File Include="images/portfolio/3.png">
+      <publishTime>10/20/2015 07:50:48</publishTime>
+    </File>
+    <File Include="images/portfolio/4.png">
+      <publishTime>10/20/2015 07:50:48</publishTime>
+    </File>
+    <File Include="images/portfolio/5.png">
+      <publishTime>10/20/2015 07:50:52</publishTime>
+    </File>
+    <File Include="images/portfolio/6.png">
+      <publishTime>10/20/2015 07:50:52</publishTime>
+    </File>
+    <File Include="images/portfolio/7.png">
+      <publishTime>10/20/2015 07:50:54</publishTime>
+    </File>
+    <File Include="images/portfolio/8.png">
+      <publishTime>10/20/2015 07:50:54</publishTime>
+    </File>
+    <File Include="images/portfolio/9.png">
+      <publishTime>10/20/2015 07:50:56</publishTime>
+    </File>
+    <File Include="images/portfolio/port-1.jpg">
+      <publishTime>10/20/2015 07:50:58</publishTime>
+    </File>
+    <File Include="images/portfolio/port-2.jpg">
+      <publishTime>10/20/2015 07:51:02</publishTime>
+    </File>
+    <File Include="images/portfolio/port-3.jpg">
+      <publishTime>10/20/2015 07:51:02</publishTime>
+    </File>
+    <File Include="images/portfolio/port-4.jpg">
+      <publishTime>10/20/2015 07:51:06</publishTime>
+    </File>
+    <File Include="images/portfolio/port-5.jpg">
+      <publishTime>10/20/2015 07:51:06</publishTime>
+    </File>
+    <File Include="images/portfolio/port-6.jpg">
+      <publishTime>10/20/2015 07:51:08</publishTime>
+    </File>
+    <File Include="images/portfolio/port-7.jpg">
+      <publishTime>10/20/2015 07:51:10</publishTime>
+    </File>
+    <File Include="images/portfolio/port-8.jpg">
+      <publishTime>10/20/2015 07:51:12</publishTime>
+    </File>
+    <File Include="images/portfolio/port-9.jpg">
+      <publishTime>10/20/2015 07:51:12</publishTime>
+    </File>
+    <File Include="images/portfolio/portfolio-img1.jpg">
+      <publishTime>10/20/2015 07:51:14</publishTime>
+    </File>
+    <File Include="images/portfolio/portfolio-img2.jpg">
+      <publishTime>10/20/2015 07:51:16</publishTime>
+    </File>
+    <File Include="images/portfolio/portfolio-img3.jpg">
+      <publishTime>10/20/2015 07:51:18</publishTime>
+    </File>
+    <File Include="images/portfolio/portfolio-img4.jpg">
+      <publishTime>10/20/2015 07:51:18</publishTime>
+    </File>
+    <File Include="images/portfolio/portfolio-img5.jpg">
+      <publishTime>10/20/2015 07:51:20</publishTime>
+    </File>
+    <File Include="images/portfolio/portfolio-img6.jpg">
+      <publishTime>10/20/2015 07:51:20</publishTime>
+    </File>
+    <File Include="images/slide-01-bg.jpg">
+      <publishTime>10/20/2015 07:49:38</publishTime>
+    </File>
+    <File Include="images/slide-02-bg - Copy.jpg">
+      <publishTime>10/20/2015 07:49:38</publishTime>
+    </File>
+    <File Include="images/slide-02-bg--.jpg">
+      <publishTime>10/20/2015 07:49:40</publishTime>
+    </File>
+    <File Include="images/slide-02-bg.jpg">
+      <publishTime>10/20/2015 07:49:40</publishTime>
+    </File>
+    <File Include="images/slide-03-bg.jpg">
+      <publishTime>10/20/2015 07:49:42</publishTime>
+    </File>
+    <File Include="images/slide-03-image-02.png">
+      <publishTime>10/20/2015 07:49:44</publishTime>
+    </File>
+    <File Include="images/slider/bg1.jpg">
+      <publishTime>02/20/2018 12:42:14</publishTime>
+    </File>
+    <File Include="images/slider/bg2.jpg">
+      <publishTime>11/16/2015 11:02:24</publishTime>
+    </File>
+    <File Include="images/slider/bg3.jpg">
+      <publishTime>11/16/2015 11:02:28</publishTime>
+    </File>
+    <File Include="images/team/face_1.png">
+      <publishTime>10/20/2015 07:52:26</publishTime>
+    </File>
+    <File Include="images/team/face_2.png">
+      <publishTime>10/20/2015 07:52:32</publishTime>
+    </File>
+    <File Include="images/team/face_3.png">
+      <publishTime>10/20/2015 07:52:30</publishTime>
+    </File>
+    <File Include="images/team/face_4.png">
+      <publishTime>10/20/2015 07:52:32</publishTime>
+    </File>
+    <File Include="images/testimonials-bg.jpg">
+      <publishTime>10/20/2015 07:49:46</publishTime>
+    </File>
+    <File Include="images/testimonials-bg1.jpg">
+      <publishTime>10/20/2015 07:49:46</publishTime>
+    </File>
+    <File Include="js/contact.js">
+      <publishTime>10/20/2015 07:48:10</publishTime>
+    </File>
+    <File Include="js/count-to.js">
+      <publishTime>10/20/2015 07:48:10</publishTime>
+    </File>
+    <File Include="js/jquery-2.1.1.js">
+      <publishTime>10/20/2015 07:48:14</publishTime>
+    </File>
+    <File Include="js/jquery-2.1.1.min.js">
+      <publishTime>10/20/2015 07:48:12</publishTime>
+    </File>
+    <File Include="js/jquery-migrate-1.2.1.min.js">
+      <publishTime>10/20/2015 07:48:14</publishTime>
+    </File>
+    <File Include="js/jquery.appear.js">
+      <publishTime>10/20/2015 07:48:14</publishTime>
+    </File>
+    <File Include="js/jquery.easypiechart.js">
+      <publishTime>10/20/2015 07:48:16</publishTime>
+    </File>
+    <File Include="js/jquery.easypiechart.min.js">
+      <publishTime>10/20/2015 07:48:16</publishTime>
+    </File>
+    <File Include="js/jquery.fitvids.js">
+      <publishTime>10/20/2015 07:48:18</publishTime>
+    </File>
+    <File Include="js/jquery.isotope.js">
+      <publishTime>10/20/2015 07:48:20</publishTime>
+    </File>
+    <File Include="js/jquery.isotope.min.js">
+      <publishTime>10/20/2015 07:48:22</publishTime>
+    </File>
+    <File Include="js/jquery.lettering.js">
+      <publishTime>10/20/2015 07:48:20</publishTime>
+    </File>
+    <File Include="js/jquery.migrate.js">
+      <publishTime>10/20/2015 07:48:22</publishTime>
+    </File>
+    <File Include="js/jquery.nicescroll.js">
+      <publishTime>10/20/2015 07:48:24</publishTime>
+    </File>
+    <File Include="js/jquery.nicescroll.min.js">
+      <publishTime>10/20/2015 07:48:24</publishTime>
+    </File>
+    <File Include="js/jquery.parallax.js">
+      <publishTime>10/20/2015 07:48:26</publishTime>
+    </File>
+    <File Include="js/jquery.textillate.js">
+      <publishTime>10/20/2015 07:48:26</publishTime>
+    </File>
+    <File Include="js/mediaelement-and-player.js">
+      <publishTime>10/20/2015 07:48:30</publishTime>
+    </File>
+    <File Include="js/modernizrr.js">
+      <publishTime>10/20/2015 07:48:32</publishTime>
+    </File>
+    <File Include="js/nivo-lightbox.js">
+      <publishTime>10/20/2015 07:48:32</publishTime>
+    </File>
+    <File Include="js/nivo-lightbox.min.js">
+      <publishTime>10/20/2015 07:48:34</publishTime>
+    </File>
+    <File Include="js/owl.carousel.js">
+      <publishTime>10/20/2015 07:48:34</publishTime>
+    </File>
+    <File Include="js/owl.carousel.min.js">
+      <publishTime>10/20/2015 07:48:36</publishTime>
+    </File>
+    <File Include="js/script.js">
+      <publishTime>10/20/2015 07:48:36</publishTime>
+    </File>
+    <File Include="MasterPage.Master">
+      <publishTime>02/28/2018 18:53:24</publishTime>
+    </File>
+    <File Include="NetworkingAndWirelessSolution.aspx">
+      <publishTime>08/08/2016 13:34:04</publishTime>
+    </File>
+    <File Include="NewsAndEvents.aspx">
+      <publishTime>02/20/2018 18:52:26</publishTime>
+    </File>
+    <File Include="php/send.php">
+      <publishTime>08/09/2014 23:35:56</publishTime>
+    </File>
+    <File Include="ror.xml">
+      <publishTime>05/26/2016 19:31:10</publishTime>
+    </File>
+    <File Include="ServerWorkstationsLaptop.aspx">
+      <publishTime>08/08/2016 13:38:48</publishTime>
+    </File>
+    <File Include="Shaladarpan.aspx">
+      <publishTime>03/17/2018 18:48:48</publishTime>
+    </File>
+    <File Include="Sitemap.aspx">
+      <publishTime>12/07/2016 15:12:02</publishTime>
+    </File>
+    <File Include="sitemap.xml">
+      <publishTime>05/26/2016 19:31:14</publishTime>
+    </File>
+    <File Include="sitemap.xml.gz">
+      <publishTime>05/26/2016 19:31:14</publishTime>
+    </File>
+    <File Include="SmartClassSolution.aspx">
+      <publishTime>08/08/2016 13:36:50</publishTime>
+    </File>
+    <File Include="SoftwareDevelopment.aspx">
+      <publishTime>06/08/2016 17:44:48</publishTime>
+    </File>
+    <File Include="SolarEnergy.aspx">
+      <publishTime>08/08/2016 13:40:46</publishTime>
+    </File>
+    <File Include="testimonials.aspx">
+      <publishTime>06/25/2016 16:30:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/19/2018 18:50:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

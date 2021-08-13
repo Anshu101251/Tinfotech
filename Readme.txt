@@ -1,0 +1,2 @@
+ - Visual Studio 2012
+ - SQL Server Enterprise 2012

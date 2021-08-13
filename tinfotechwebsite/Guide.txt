@@ -1,0 +1,6 @@
+﻿1. Meta Tags 
+2. Indexing with Google Custom Search
+3. Google Map Integration
+4. Integration with Google Analytics
+
+
